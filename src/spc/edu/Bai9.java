@@ -13,6 +13,7 @@ import java.util.Scanner;
 public class Bai9 {
     public static void main(String[] args) {
         System.err.println("chuong trinh tinh so ngay trong thang khi nhap thang");
+        Scanner nhap = new Scanner(System.in);
         int thang;
         System.err.println("Nhap so thang(1-12):");
         thang = nhap.nextInt();
@@ -41,4 +42,3 @@ public class Bai9 {
         }
     }
 }
-
