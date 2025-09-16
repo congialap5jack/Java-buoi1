@@ -39,5 +39,5 @@ public class Bai14 {
         double diemtrungbinh = tongdiem/somonhoc;
         System.out.printf("Ban da hoc %d mon hoc, diem binh la %f\n", somonhoc,diemtrungbinh);
     }
-}.
 
+}
