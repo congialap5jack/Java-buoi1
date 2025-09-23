@@ -2,13 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package_Giaiptbac2;
+
+import static java.awt.PageAttributes.MediaType.A;
 /**
  *
  * @author Administrator
  */
 
-public class bai1_Giaiptbac2 extends javax.swing.JFrame {
+public class bai1_Giaiptbac2 extends javax..JFrame {
    /**
      * Creates new form Java_GiaiPTbac2
      */
